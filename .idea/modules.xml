@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/oj-club.iml" filepath="$PROJECT_DIR$/.idea/oj-club.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oj-club-subject/oj-club-application/oj-club-application.iml" filepath="$PROJECT_DIR$/oj-club-subject/oj-club-application/oj-club-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oj-club-subject/oj-club-application/oj-club-application-controller/oj-club-application-controller.iml" filepath="$PROJECT_DIR$/oj-club-subject/oj-club-application/oj-club-application-controller/oj-club-application-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oj-club-subject/oj-club-application/oj-club-application-job/oj-club-application-job.iml" filepath="$PROJECT_DIR$/oj-club-subject/oj-club-application/oj-club-application-job/oj-club-application-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oj-club-subject/oj-club-application/oj-club-application-mq/oj-club-application-mq.iml" filepath="$PROJECT_DIR$/oj-club-subject/oj-club-application/oj-club-application-mq/oj-club-application-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oj-club-subject/oj-club-common/oj-club-common.iml" filepath="$PROJECT_DIR$/oj-club-subject/oj-club-common/oj-club-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oj-club-subject/oj-club-domain/oj-club-domain.iml" filepath="$PROJECT_DIR$/oj-club-subject/oj-club-domain/oj-club-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oj-club-subject/oj-club-infra/oj-club-infra.iml" filepath="$PROJECT_DIR$/oj-club-subject/oj-club-infra/oj-club-infra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oj-club-subject/oj-club-starter/oj-club-starter.iml" filepath="$PROJECT_DIR$/oj-club-subject/oj-club-starter/oj-club-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oj-club-subject/oj-club-subject.iml" filepath="$PROJECT_DIR$/oj-club-subject/oj-club-subject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oj-club-subject/oj-club-subject-api/oj-club-subject-api.iml" filepath="$PROJECT_DIR$/oj-club-subject/oj-club-subject-api/oj-club-subject-api.iml" />
+    </modules>
+  </component>
+</project>
